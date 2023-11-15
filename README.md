@@ -17,6 +17,7 @@ print('use 3 backticks to show code')
 
 - bullet 1
 - bullet 2
+- bullet 3
 
 Use single asterisk *for italic* 
 Or use double asterisk **for bold**
